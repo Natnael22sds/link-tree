@@ -60,8 +60,3 @@ https://yourusername.github.io/link-tree/
 👨‍💻 Author
 Natnael22sds
 GitHub: https://github.com/Natnael22sds
-
-
----
-
-Let me know if you want a similar README for your Rock-Paper-Scissors game too!
