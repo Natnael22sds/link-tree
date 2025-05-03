@@ -60,4 +60,4 @@ https://yourusername.github.io/link-tree/
 
 👨‍💻 Author
 Natnael22sds
-GitHub: https://github.com/Natnael22sds
+[GitHub: ](https://github.com/Natnael22sds)
