@@ -55,7 +55,8 @@ Your site will be live at:
 https://yourusername.github.io/link-tree/
 
 📸 Screenshots
-(Add your screenshots here to show off your design.)
+![LR1](https://github.com/user-attachments/assets/226183a8-61a4-4e09-a6cf-92182423cc76)
+
 
 👨‍💻 Author
 Natnael22sds
